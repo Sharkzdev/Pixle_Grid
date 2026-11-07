@@ -1,0 +1,24 @@
+# KiCad temporary & auto-saved files
+*.kicad_prl
+*.tmp
+*-bak
+*-bak2
+*_bak
+*.bck
+*.lck
+
+# Cache files
+*-cache.lib
+*_cache.lib
+
+# KiCad 8 project-local user settings
+*.kicad_user
+
+# Gerber / Drill output directories (uncomment if you don't want to track manufacturing files)
+# /gerber/
+# /plots/
+
+# OS / Editor clutter
+.DS_Store
+Thumbs.db
+.vscode/
